@@ -1,0 +1,138 @@
+{
+  "packages": [
+    {
+      "name": "BlackIoT",
+      "maintainer": "BlackIoT sagl",
+      "websiteURL": "https://blackiot.swiss",
+      "platforms": [
+        {
+          "name": "BlackIoT Boards",
+          "architecture": "esp32",
+          "version": "1.0.0",
+          "category": "Contributed",
+          "url": "https://github.com/BlackIoT/Firmware_Polverine_Arduino/releases/download/V1.0.0/BlackIoT_1.0.0.zip",
+          "archiveFileName": "BlackIoT_1.0.0",
+          "checksum": "SHA-256:FF5FA6E3A2BCEE273C75FD1DF2AD345F16C07F9DA20EF1137B619D91A4D133D8",
+          "size": "5543",
+          "boards": [
+            {
+              "name": "Polverine"
+            }
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "esp32",
+              "name": "esp-rv32",
+              "version": "2507"
+            },
+            {
+              "packager": "esp32",
+              "name": "esp-x32",
+              "version": "2507"
+            },
+            {
+              "packager": "esp32",
+              "name": "esp32-arduino-libs",
+              "version": "idf-release_v5.5-f1a1df9b-v3"
+            },
+            {
+              "packager": "esp32",
+              "name": "esptool_py",
+              "version": "5.1.0"
+            },
+            {
+              "packager": "esp32",
+              "name": "mklittlefs",
+              "version": "4.0.2-db0513a"
+            },
+            {
+              "packager": "esp32",
+              "name": "mkspiffs",
+              "version": "0.2.3"
+            },
+            {
+              "packager": "esp32",
+              "name": "openocd-esp32",
+              "version": "v0.12.0-esp32-20250707"
+            },
+            {
+              "packager": "esp32",
+              "name": "riscv32-esp-elf-gdb",
+              "version": "16.3_20250913"
+            },
+            {
+              "packager": "esp32",
+              "name": "xtensa-esp-elf-gdb",
+              "version": "16.3_20250913"
+            }
+          ]
+        },
+        {
+          "name": "BlackIoT Boards",
+          "architecture": "esp32",
+          "version": "0.1.4",
+          "category": "Contributed",
+          "url": "http://amanu95.altervista.org/polverine/BlackIoT.zip",
+          "archiveFileName": "BlackIoT.zip",
+          "checksum": "SHA-256:D71EA8B07E58F75128BEC564E4ACD27A2B195EBC30321E35C6268598B84DA06F",
+          "size": "5352",
+          "boards": [
+            {
+              "name": "Polverine"
+            }
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "esp32",
+              "name": "esp-rv32",
+              "version": "2507"
+            },
+            {
+              "packager": "esp32",
+              "name": "esp-x32",
+              "version": "2507"
+            },
+            {
+              "packager": "esp32",
+              "name": "esp32-arduino-libs",
+              "version": "idf-release_v5.5-f1a1df9b-v3"
+            },
+            {
+              "packager": "esp32",
+              "name": "esptool_py",
+              "version": "5.1.0"
+            },
+            {
+              "packager": "esp32",
+              "name": "mklittlefs",
+              "version": "4.0.2-db0513a"
+            },
+            {
+              "packager": "esp32",
+              "name": "mkspiffs",
+              "version": "0.2.3"
+            },
+            {
+              "packager": "esp32",
+              "name": "openocd-esp32",
+              "version": "v0.12.0-esp32-20250707"
+            },
+            {
+              "packager": "esp32",
+              "name": "riscv32-esp-elf-gdb",
+              "version": "16.3_20250913"
+            },
+            {
+              "packager": "esp32",
+              "name": "xtensa-esp-elf-gdb",
+              "version": "16.3_20250913"
+            }
+          ]
+        }
+      ],
+      "tools": [
+        
+      ]
+    }
+  ]
+}
