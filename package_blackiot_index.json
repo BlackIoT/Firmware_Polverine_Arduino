@@ -8,12 +8,12 @@
         {
           "name": "BlackIoT Boards",
           "architecture": "esp32",
-          "version": "1.0.0",
+          "version": "1.0.1",
           "category": "Contributed",
-          "url": "https://github.com/BlackIoT/Firmware_Polverine_Arduino/releases/download/V1.0.0/BlackIoT_1.0.0.zip",
-          "archiveFileName": "BlackIoT_1.0.0",
-          "checksum": "SHA-256:FF5FA6E3A2BCEE273C75FD1DF2AD345F16C07F9DA20EF1137B619D91A4D133D8",
-          "size": "5543",
+          "url": "https://github.com/BlackIoT/Firmware_Polverine_Arduino/releases/download/V1.0.1/BlackIoT_1.0.1.zip",
+          "archiveFileName": "BlackIoT_1.0.1",
+          "checksum": "SHA-256:67EF07708F976A069BA9F6082DC9C6CF981464A9DFF4F105A3D8B35A4ED1A10A",
+          "size": "5547",
           "boards": [
             {
               "name": "Polverine"
@@ -70,12 +70,12 @@
         {
           "name": "BlackIoT Boards",
           "architecture": "esp32",
-          "version": "0.1.4",
+          "version": "1.0.0",
           "category": "Contributed",
-          "url": "http://amanu95.altervista.org/polverine/BlackIoT.zip",
-          "archiveFileName": "BlackIoT.zip",
-          "checksum": "SHA-256:D71EA8B07E58F75128BEC564E4ACD27A2B195EBC30321E35C6268598B84DA06F",
-          "size": "5352",
+          "url": "https://github.com/BlackIoT/Firmware_Polverine_Arduino/releases/download/V1.0.0/BlackIoT_1.0.0.zip",
+          "archiveFileName": "BlackIoT_1.0.0",
+          "checksum": "SHA-256:FF5FA6E3A2BCEE273C75FD1DF2AD345F16C07F9DA20EF1137B619D91A4D133D8",
+          "size": "5543",
           "boards": [
             {
               "name": "Polverine"
