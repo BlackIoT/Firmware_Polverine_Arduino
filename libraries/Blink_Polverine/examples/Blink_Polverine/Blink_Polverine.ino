@@ -21,5 +21,5 @@ void loop() {
   digitalWrite(BLUE_LED_PIN, HIGH);  // Turn on BLUE LED
   delay(1000);                       // 1 sec wait
   digitalWrite(BLUE_LED_PIN, LOW);   //  Turn Off BLUE LED
-  delay(10 00);                      // 1 sec wait
+  delay(1000);                      // 1 sec wait
 }
