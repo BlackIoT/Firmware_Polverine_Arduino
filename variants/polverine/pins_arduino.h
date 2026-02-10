@@ -40,11 +40,11 @@ static const uint8_t TDO = 40;
 static const uint8_t TCK = 39;
 
 // BMV080
-static const uint8_t BMV_CS = 10;
-static const uint8_t BMV_MOSI = 11;
-static const uint8_t BMV_MISO = 13;
-static const uint8_t BMV_SCK = 12;
-static const uint8_t BMV_INT = 5;
+static const uint8_t BMV080_CS = 10;
+static const uint8_t BMV080_MOSI = 11;
+static const uint8_t BMV080_MISO = 13;
+static const uint8_t BMV080_SCK = 12;
+static const uint8_t BMV080_INT = 5;
 
 //BME690
 static const uint8_t BME690_SDA = 14;
