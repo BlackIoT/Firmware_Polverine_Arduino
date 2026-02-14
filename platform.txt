@@ -1,3 +1,3 @@
 name=BlackIoT
-version=1.0.3
+version=1.0.4
 runtime.use_core_platform_path_for_runtime_platform_path=true

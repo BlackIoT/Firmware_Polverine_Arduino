@@ -40,7 +40,7 @@ Files from the SDK must be copied into the arduino folder. This, is installed in
 
 From the Bosch SDK, the following files are copied into the specified library locations.
 
-|Bosch SDK File | SparkFun BMV080 Arduino Library Directory|
+|Bosch SDK File | BlackIoT_BMV080_Arduino_Library Directory|
 |--|--|
 |api/inc/bmv080.h| src/bmv080.h|
 |api/inc/bmv080_defs.h| src/bmv080_defs.h|

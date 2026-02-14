@@ -16,12 +16,8 @@ BMV080SPI bmv080; // Create an instance of the BMV080 class
 
 /* Entry point for the example */
 void setup(void){
-    pinMode(RED_LED_PIN, OUTPUT);      // Set OUTPUT PIN
-    digitalWrite(RED_LED_PIN, LOW);    // LED off
     pinMode(GREEN_LED_PIN, OUTPUT);    // Set OUTPUT PIN
     digitalWrite(GREEN_LED_PIN, LOW);  // LED off
-    pinMode(BLUE_LED_PIN, OUTPUT);     // Set OUTPUT PIN
-    digitalWrite(BLUE_LED_PIN, LOW);   // LED off
 
     /* Initialize the communication interfaces */
     Serial.begin(115200);

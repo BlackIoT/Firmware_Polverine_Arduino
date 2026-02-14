@@ -8,6 +8,78 @@
         {
           "name": "BlackIoT Boards",
           "architecture": "esp32",
+          "version": "1.0.4",
+          "category": "Contributed",
+          "url": "https://github.com/BlackIoT/Firmware_Polverine_Arduino/releases/download/V1.0.4/BlackIoT_1.0.4.zip",
+          "archiveFileName": "BlackIoT_1.0.4",
+          "checksum": "SHA-256:0E3B714D44E0671EACBDD2343DB2C09F08272893162F46A8F8EC1444CC7C43EE",
+          "size": "135012",
+          "boards": [
+            {
+              "name": "Polverine"
+            }
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "esp32",
+              "name": "esp-x32",
+              "version": "2511"
+            },
+            {
+              "packager": "esp32",
+              "name": "xtensa-esp-elf-gdb",
+              "version": "16.3_20250913"
+            },
+            {
+              "packager": "esp32",
+              "name": "esp-rv32",
+              "version": "2511"
+            },
+            {
+              "packager": "esp32",
+              "name": "riscv32-esp-elf-gdb",
+              "version": "16.3_20250913"
+            },
+            {
+              "packager": "esp32",
+              "name": "openocd-esp32",
+              "version": "v0.12.0-esp32-20251215"
+            },
+            {
+              "packager": "esp32",
+              "name": "esptool_py",
+              "version": "5.1.0"
+            },
+            {
+              "packager": "esp32",
+              "name": "mkspiffs",
+              "version": "0.2.3"
+            },
+            {
+              "packager": "esp32",
+              "name": "mklittlefs",
+              "version": "4.0.2-db0513a"
+            },
+            {
+              "packager": "arduino",
+              "name": "dfu-util",
+              "version": "0.11.0-arduino5"
+            },
+            {
+              "packager": "esp32",
+              "name": "esp32-libs",
+              "version": "3.3.6"
+            },
+            {
+              "packager": "esp32",
+              "name": "esp32s3-libs",
+              "version": "3.3.6"
+            }
+          ]
+        },
+        {
+          "name": "BlackIoT Boards",
+          "architecture": "esp32",
           "version": "1.0.3",
           "category": "Contributed",
           "url": "https://github.com/BlackIoT/Firmware_Polverine_Arduino/releases/download/V1.0.3/BlackIoT_1.0.3.zip",
