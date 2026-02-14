@@ -133,13 +133,13 @@ polverine.menu.UploadMode.cdc=USB-OTG CDC (TinyUSB)
 polverine.menu.UploadMode.cdc.upload.use_1200bps_touch=true
 polverine.menu.UploadMode.cdc.upload.wait_for_upload_port=true
 
+polverine.menu.PartitionScheme.default_8MB=8M with spiffs (3MB APP/1.5MB SPIFFS)
+polverine.menu.PartitionScheme.default_8MB.build.partitions=default_8MB
+polverine.menu.PartitionScheme.default_8MB.upload.maximum_size=3342336
 polverine.menu.PartitionScheme.default=Default 4MB with spiffs (1.2MB APP/1.5MB SPIFFS)
 polverine.menu.PartitionScheme.default.build.partitions=default
 polverine.menu.PartitionScheme.defaultffat=Default 4MB with ffat (1.2MB APP/1.5MB FATFS)
 polverine.menu.PartitionScheme.defaultffat.build.partitions=default_ffat
-polverine.menu.PartitionScheme.default_8MB=8M with spiffs (3MB APP/1.5MB SPIFFS)
-polverine.menu.PartitionScheme.default_8MB.build.partitions=default_8MB
-polverine.menu.PartitionScheme.default_8MB.upload.maximum_size=3342336
 polverine.menu.PartitionScheme.minimal=Minimal (1.3MB APP/700KB SPIFFS)
 polverine.menu.PartitionScheme.minimal.build.partitions=minimal
 polverine.menu.PartitionScheme.no_fs=No FS 4MB (2MB APP x2)

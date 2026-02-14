@@ -1,0 +1,58 @@
+#######################################
+#        BME690 Keywords              #
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Bme69x	KEYWORD1
+bme69xScommT    KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)    #
+#######################################
+
+Bme69x	KEYWORD2
+begin	KEYWORD2
+readReg	KEYWORD2
+writeReg	KEYWORD2
+softReset	KEYWORD2
+setAmbientTemp	KEYWORD2
+getMeasDur	KEYWORD2
+setOpMode	KEYWORD2
+getOpMode	KEYWORD2
+getTPH	KEYWORD2
+setTPH	KEYWORD2
+getFilter	KEYWORD2
+setFilter	KEYWORD2
+getSeqSleep	KEYWORD2
+setSeqSleep	KEYWORD2
+setHeaterProf	KEYWORD2
+fetchData	KEYWORD2
+getData	KEYWORD2
+getSensorData   KEYWORD2
+getHeaterConfiguration  KEYWORD2
+getUniqueId	KEYWORD2
+intfError	KEYWORD2
+checkStatus KEYWORD2
+statusString	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)                #
+#######################################
+
+BME68X_SLEEP_MODE	LITERAL1
+BME68X_FORCED_MODE	LITERAL1
+BME68X_PARALLEL_MODE	LITERAL1
+BME68X_SEQUENTIAL_MODE	LITERAL1
+
+#######################################
+# Structures (KEYWORD3)               #
+#######################################
+
+
+bme69xData	KEYWORD3
+bme69xDev   KEYWORD3
+bme69xConf  KEYWORD3
+bme69xHeatrConf KEYWORD3
