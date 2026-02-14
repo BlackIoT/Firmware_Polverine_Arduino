@@ -179,6 +179,7 @@ For complete demo projects including MQTT, BLE, and Home Assistant integration, 
 
 ## Bosch Sensor Install SDKs
 - **BMV080 SDK:** Refere to the [Readme](https://github.com/BlackIoT/Firmware_Polverine_Arduino/tree/main/libraries/BlackIoT_BMV080_Arduino_Library) file.
+- **BME690 BSEC SDK:** Refere to the [Readme](https://github.com/BlackIoT/Firmware_Polverine_Arduino/tree/main/libraries/BlackIoT_BME690_Arduino_Library) file.
 
 ## Troubleshooting
 
