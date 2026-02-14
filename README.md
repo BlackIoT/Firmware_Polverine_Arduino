@@ -177,6 +177,9 @@ To use the BMV080 and BME690 sensors, you need to download the official SDKs fro
 For complete demo projects including MQTT, BLE, and Home Assistant integration, see the main repository:
 [BlackIoT/Polverine](https://github.com/BlackIoT/Polverine)
 
+## Bosch Sensor Install SDKs
+- **BMV080 SDK:** Refere to the [Readme](https://github.com/BlackIoT/Firmware_Polverine_Arduino/tree/main/libraries/BlackIoT_BMV080_Arduino_Library) file.
+
 ## Troubleshooting
 
 ### Board not detected (no serial port)
